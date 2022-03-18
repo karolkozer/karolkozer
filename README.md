@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Planby](https://github.com/karolkozer/planby)
 
-- 👯 I’m looking to collaborate on [Planby](https://github.com/karolkozer/planby)
-
 - 📝 I regularly write articles on [https://worldofreact.hashnode.dev/](https://worldofreact.hashnode.dev/)
 
 - 💬 Ask me about **React**
