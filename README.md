@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **karol.kozer@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/](https://www.linkedin.com/in/karol-kozer)
+- 📄 Know about my experiences [https://www.linkedin.com/](karol-kozer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
