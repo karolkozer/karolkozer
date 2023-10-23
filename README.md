@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **karol.kozer@gmail.com**
+- 📫 How to reach me **karol@planby.app**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/karol-kozer/
 
